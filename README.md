@@ -33,15 +33,10 @@ Machine learning model for churn prediction (Random Forest)
 
 # Project Structure
 Predictive-Analysis-of-Customer-Churn-in-Telecom/
-│
 ├── notebook/
 │   └── customer_churn.ipynb
-│
-├── data/
-│   ├── telecom_customer_churn.csv
-│   ├── telecom_data_dictionary.csv
-│   └── telecom_zipcode_population.csv
-│
+├── report/
+│   └── Customer_Churn_Report.pdf
 └── README.md
 
 # Tools & Libraries
