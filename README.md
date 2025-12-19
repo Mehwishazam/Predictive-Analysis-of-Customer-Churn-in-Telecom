@@ -5,9 +5,9 @@ This project analyzes telecom customer data to understand factors influencing ch
 
 # Dataset
 
-# Source: Telecom customer churn dataset
-
-# Contents: Customer demographics, service usage, contract details, payments, and churn information
+ Source: Telecom customer churn dataset
+ 
+ Contents: Customer demographics, service usage, contract details, payments, and churn information
 
 # Files included:
 
@@ -34,7 +34,7 @@ Machine learning model for churn prediction (Random Forest)
 # Project Structure
 Predictive-Analysis-of-Customer-Churn-in-Telecom/
 ├── notebook/
-│   └── customer_churn.ipynb
+│   └── customer_churn
 ├── report/
 │   └── Customer_Churn_Report.pdf
 └── README.md
